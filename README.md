@@ -9,7 +9,7 @@
   </a>
  </p>
 </p>      
-## 🤝:Connect With Me
+## 🤝Connect With Me
         
 <p>
     <a href="https://www.linkedin.com/in/abdulmoiz8333/" target="_blank">
