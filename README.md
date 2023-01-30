@@ -9,7 +9,7 @@
   </a>
 </p>
 <br>
-## :🚀👨‍: About me
+:🚀👨‍: About me
 Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
 I have gained expertise in the MERN stack through my studiesSE, projects and internships.
@@ -86,11 +86,11 @@ Apart from this I have great Interest in Smartphones and particularly Apple Ipho
 ## 📊 Github Stats
 <p>
         <h2 align="left">Coding Journey</h2>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
-            height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="abdullahqaisar" height="192px" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdul Moiz's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=aJkal-abdulmoiz&show_icons=true&count_private=true&theme=algolia"
+            height="184px" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aJkal-abdulmoiz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="abdulMoiz" height="188px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
