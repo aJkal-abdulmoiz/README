@@ -32,7 +32,7 @@
 
 Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
-I have gained expertise in the MERN stack through my studiesSE, projects and internships.
+I have gained expertise in software development and Information Security through projects and internships..
 I am a fast learner and fond of future technology.I stay up to date with the latest trends and developments in the field of computer science. 
 Apart from this I have great Interest in Smartphones and particularly Apple Iphones, I just love to Jail-Break Iphones and do insane modifications in them from flashing ios 11 in iphone 4 to making smartphone support non-supporting andriod features I am fond of doing modifications in software of Smartphones. 
 
