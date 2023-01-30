@@ -7,7 +7,10 @@
   <a href="https://github.com/aJkal-abdulmoiz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/aJkal-abdulmoiz?color=red&logo=github">
   </a>
-  ##Connect with me:
+ </p>
+</p>      
+## 🤝:Connect With Me
+        
 <p>
     <a href="https://www.linkedin.com/in/abdulmoiz8333/" target="_blank">
         <img alt="JavaScript"
@@ -23,7 +26,7 @@
 </p>
 </p>
 <br>
-##:🚀👨‍: About me
+## 🚀👨‍ About me
 Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
 I have gained expertise in the MERN stack through my studiesSE, projects and internships.
@@ -90,7 +93,7 @@ Apart from this I have great Interest in Smartphones and particularly Apple Ipho
 > Tools, languages, and other things that I like to work with.
 <table>
   <tr>
-   <img src="https://www.bing.com/images/search?view=detailV2&ccid=5JFH1YSl&id=9532612B1F404453E9D5853E52284B6A332D3AC5&thid=OIP.5JFH1YSl7NHZ4kPghfXfEgHaD4&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-9oEdNse-Jpg%2fXqGy4q33HII%2fAAAAAAAAAq0%2fb_1A9VJPdrAJANfxpBIlWHUqcaMC0-LfACLcBGAsYHQ%2fw1200-h630-p-k-no-nu%2f1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e49147d584a5ecd1d9e243e085f5df12%3frik%3dxTotM2pLKFI%252bhQ%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=flutter&simid=608044675388080417&FORM=IRPRST&ck=91561749A95372913BECF491E524B71A&selectedIndex=4&ajaxhist=0&ajaxserp=0"
+   <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAEUARQMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYDBAECBwj/2gAIAQEAAAAA+qQAAACvwd4rknl42cVM6X+mQuKR0pa9ebelAAAAAD//xAAWAQEBAQAAAAAAAAAAAAAAAAAABQT/2gAKAgIQAxAAAAAANc3JSAqwJV8AAAA//8QALhAAAgICAQEGBAYDAAAAAAAAAQIDBAURABIGEzFRUmEUIUBBBxAVIiNCMnKx/9oACAEBAAE/APq83mosbDoaadhtVPgB6m5g8RPZkGQvs523XGjf2PrYf8H5YzOXcitSaPCzJWn+YnM0R0nqK73zF5CPI4+pcRCgnj6whILAb1y1erVGqiZ9d/YEKf7kE/PyA1xL1Z701MP/ADRxRyMPaTeteZ/bwSRs7orqWQ6ZQQSp9x9uS26kJAlsRISNgM6gkefz5l8fXxs1jKWmeynUDFEfvIfWfSOdnrN7M2J53yLCKGQCSBH0esjYUgeC8HiOdj6NgYjD2f1S4UMPV8MejuhvY1/j1aHOztynjmwNm9OleCXCPGksh6VLpP1ld+euMmJnw2Ou3YIfhx2jtGV54wAsMkkh0/V4KTy5BSizuXNWKul6fDI+NIUK7zFZAzRH1cwMVBshghTu0FmiJLpWqOlgoEIdbJLnXuX/ALc7KYTDv2exs0mPrySywB5JJIw7kknxLckqJNG8cqqyMCGUjYIPMT+F0mEzb5HGdoZ4kZz1wSRCQPGTso52N87v353fvwxA+PDECNE87oc7rnd+/wBZ/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIDEQQSIFEhIzBCYf/aAAgBAgEBPwDamL2GmkfQvr0ssfm1MyN8aRZDUoWkcixp4HHn/8QAIREAAgECBgMAAAAAAAAAAAAAAQMCBBEFEhMgQWEhMDH/2gAIAQMBAT8A2txG1ZClQrVZ9Z5sFjs7ZYVJdatir6GYymuJsTM8yPI69/8A/9k="
    alt="Flutter" height="56px" />
   </tr>
 </table>
