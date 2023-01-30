@@ -13,7 +13,7 @@
 ## 🤝Connect With Me
         
 <p>
-    <a href="https://www.linkedin.com/in/abdulmoiz8333/" target="_blank">
+    <a href="https://www.linkedin.com/in/abdul-moiz-303228264/" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
