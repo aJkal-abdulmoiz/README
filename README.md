@@ -1,18 +1,74 @@
 # README
 
-<<h1 align="center">Hello there!, I'm Abdul Moiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hello there!, I'm Abdul Moiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
-
 <br>
-
+<p>
   <a href="https://github.com/aJkal-abdulmoiz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/aJkal-abdulmoiz?color=red&logo=github">
   </a>
 </p>
+<br>
+## :🚀👨‍: About me
+Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
+I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
+I have gained expertise in the MERN stack through my studiesSE, projects and internships.
+I am a fast learner and fond of future technology.I stay up to date with the latest trends and developments in the field of computer science. 
+Apart from this I have great Interest in Smartphones and particularly Apple Iphones, I just love to Jail-Break Iphones and do insane modifications in them from flashing ios 11 in iphone 4 to making smartphone support non-supporting andriod features I am fond of doing modifications in software of Smartphones. 
 
-<a href="#aJkal-abdulmoiz-title">
-  <img src="https://raw.githubusercontent.com/aJkal-abdulmoiz/github-stats-transparent/output/generated/overview.svg" alt="abdulmoiz" align="right" />
-</a>
+## 🛠️ My Skills
+
+<p>
+    <summary><b>Languages</b></summary>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript"
+            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img alt="Python"
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
+    <br />
+    <br />
+    <summary><b>Frontend Developement</b></summary>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img alt="HTML"
+            src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img alt="CSS"
+            src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/react/" target="_blank">
+        <img alt="ReactJS"
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://mui.com/" target="_blank">
+        <img alt="Material-UI"
+            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img alt="Bootstrap"
+            src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </a>
+    <br />
+    <br />
+    <summary><b>Backend Developement</b></summary>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img alt="Node.js"
+            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img alt="MongoDB"
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+</p>
+
+
+
 
 <br>
 
@@ -22,120 +78,23 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#abdulmoiz-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#abdulmoiz-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#abdulmoiz-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
+   
   </tr>
 </table>
 
-<h2 align="left">Coding Journey</h2>
+
+## 📊 Github Stats
+<p>
+        <h2 align="left">Coding Journey</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
+            src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
+            height="192px" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="abdullahqaisar" height="192px" />
+    <br />
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
+    experience or skill level.
+</p>
 
 
 <!-- links -->
