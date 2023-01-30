@@ -9,7 +9,8 @@
   </a>
  </p>
 </p>      
-## 🤝Connect With Me
+
+## :🤝:Connect With Me
         
 <p>
     <a href="https://www.linkedin.com/in/abdulmoiz8333/" target="_blank">
@@ -26,7 +27,9 @@
 </p>
 </p>
 <br>
-## 🚀👨‍ About me
+
+## :🚀👨‍: About me
+
 Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
 I have gained expertise in the MERN stack through my studiesSE, projects and internships.
