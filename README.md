@@ -7,9 +7,23 @@
   <a href="https://github.com/aJkal-abdulmoiz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/aJkal-abdulmoiz?color=red&logo=github">
   </a>
+  ##Connect with me:
+<p>
+    <a href="https://www.linkedin.com/in/abdulmoiz8333/" target="_blank">
+        <img alt="JavaScript"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulmoiziphone4@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red">
+    </a>
+    <a href="https://github.com/aJkal-abdulmoiz" target="_blank">
+        <img alt="Gmail"
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</p>
 </p>
 <br>
-:🚀👨‍: About me
+##:🚀👨‍: About me
 Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
 I have gained expertise in the MERN stack through my studiesSE, projects and internships.
@@ -73,12 +87,11 @@ Apart from this I have great Interest in Smartphones and particularly Apple Ipho
 <br>
 
 <h2 align="left" id="abdulmoiz-tech">Favorite Tech</h2>
-
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
-   
+   <img src="https://www.bing.com/images/search?view=detailV2&ccid=5JFH1YSl&id=9532612B1F404453E9D5853E52284B6A332D3AC5&thid=OIP.5JFH1YSl7NHZ4kPghfXfEgHaD4&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-9oEdNse-Jpg%2fXqGy4q33HII%2fAAAAAAAAAq0%2fb_1A9VJPdrAJANfxpBIlWHUqcaMC0-LfACLcBGAsYHQ%2fw1200-h630-p-k-no-nu%2f1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e49147d584a5ecd1d9e243e085f5df12%3frik%3dxTotM2pLKFI%252bhQ%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=flutter&simid=608044675388080417&FORM=IRPRST&ck=91561749A95372913BECF491E524B71A&selectedIndex=4&ajaxhist=0&ajaxserp=0"
+   alt="Flutter" height="56px" />
   </tr>
 </table>
 
