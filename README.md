@@ -47,24 +47,21 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
     </a>
     
      <a href="https://www.w3schools.com/html/" target="_blank">
-        <img alt="HTML"
-            src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=#ffffff">
      </a>
      
      <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/." target="_blank">
-        <img alt="CSS"
-            src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=#ffffff">
      </a>
     
      
      <h4>Programming Languages</h4>
     <a href="https://www.python.org" target="_blank">
-        <img alt="Python"
-           src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
         
-    <br />
-    <br />
+    <br>
+    <br>
    
 </p>
 
