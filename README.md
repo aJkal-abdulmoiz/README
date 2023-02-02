@@ -68,11 +68,6 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
 </p>
 
 
-
-
-
-<br>
-
 <h2 align="left" id="abdulmoiz-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
