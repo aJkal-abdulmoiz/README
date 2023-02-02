@@ -30,11 +30,11 @@
 
 ## 🚀👨‍ About me
 
-Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Data , I LIV3 4 DATA.
+Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Information Security and Cyber Security.
 I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
 I have gained expertise in software development and Information Security through projects and internships..
 I am a fast learner and fond of future technology.I stay up to date with the latest trends and developments in the field of computer science. 
-Apart from this I have great Interest in Smartphones and particularly Apple Iphones, I just love to Jail-Break Iphones and do insane modifications in them from flashing ios 11 in iphone 4 to making smartphone support non-supporting andriod features I am fond of doing modifications in software of Smartphones. 
+Apart from this I have great Interest in Smartphones and particularly Iphones, I just love to Jail-Break Iphones and do insane modifications in them from using Cydia or scripts to cutomize them to make them support non-supporting andriod features I am fond of doing modifications in software of Smartphones.(rooting androids piece of Cake)-
 
 ## 🛠️ My Skills
 
