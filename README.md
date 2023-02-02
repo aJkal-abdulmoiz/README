@@ -39,11 +39,25 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
 ## 🛠️ My Skills
 
 <p>
-    <summary><b>Languages</b></summary>
+    <summary><b>Web Development Languages</b></summary>
+    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
+    
+     <a href="https://www.w3schools.com/html/" target="_blank">
+        <img alt="HTML"
+            src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+     </a>
+     
+     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/." target="_blank">
+        <img alt="CSS"
+            src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    
+     
+     <summary><b>Programming Languages</b></summary>
     <a href="https://www.python.org" target="_blank">
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
