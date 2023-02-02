@@ -48,10 +48,7 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
-    <br />
-    <br />
         
-    <summary><b>Web Development Languages</b></summary>
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML"
             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
