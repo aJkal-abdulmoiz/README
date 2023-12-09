@@ -30,7 +30,7 @@
 
 ## 🚀👨‍ About me
 
-Hey 👋 My name is Abdul Moiz and I am a computer science student at Air UniveHey 👋 My name is Abdul Moiz, and I am a computer science student at Air University, Islamabad. My Passion is Data, I LIV3 4 DATA.
+Hey 👋 My name is Abdul Moiz, and I am a computer science student at Air University, Islamabad. My Passion is Data, I LIV3 4 DATA.
 
 I love to Bring Innovation in every project and Use of Futuristic tools in Software Development that prove beneficial for both user and developers.
 
