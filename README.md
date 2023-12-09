@@ -30,11 +30,20 @@
 
 ## 🚀👨‍ About me
 
-Hey 👋 My name is Abdul Moiz and I am a computer science student at Air University, Islamabad. My Passion is Information Security and Cyber Security.
-I love to Bring Inovation in Technology and Use of Machine Learning in Information Security.
-I have gained expertise in software development and Information Security through projects and internships..
-I am a fast learner and fond of future technology.I stay up to date with the latest trends and developments in the field of computer science. 
-Apart from this I have great Interest in Smartphones and particularly Iphones, I just love to Jail-Break Iphones and do insane modifications in them from using Cydia or scripts to cutomize them to make them support non-supporting andriod features I am fond of doing modifications in software of Smartphones.(rooting androids piece of Cake)-
+Hey 👋 My name is Abdul Moiz and I am a computer science student at Air UniveHey 👋 My name is Abdul Moiz, and I am a computer science student at Air University, Islamabad. My Passion is Data, I LIV3 4 DATA.
+
+I love to Bring Innovation in every project and Use of Futuristic tools in Software Development that prove beneficial for both user and developers.
+
+I have gained expertise in WEB development and Information Security through courses, projects and internships.
+
+I am a fast learner and fond of future technology. I stay up to date with the latest trends and developments in the field of computer science. 
+
+ I have great Interest in Web Development, I have great Skills in Front end development and converting any IMAGE, PDF , SKETCH , PSD, Figma, WordPress or any other format to HTML CSS JS Code.
+
+I enjoy Creating custom Websites for clients that have a unique idea for their website pages.
+
+
+ I am fond of doing modifications in software of Smartphones.
 
 ## 🛠️ My Skills
 
@@ -74,7 +83,7 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
     </a>
     <br />
     <br />
-    <summary><b>Backend Developement</b></summary>
+    <summary><b>Backend Developement(Yet To complete)</b></summary>
     <a href="https://nodejs.org/en/" target="_blank">
         <img alt="Node.js"
             src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -93,8 +102,10 @@ Apart from this I have great Interest in Smartphones and particularly Iphones, I
 > Tools, languages, and other things that I like to work with.
 <table>
   <tr>
-   <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAEUARQMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABQYDBAECBwj/2gAIAQEAAAAA+qQAAACvwd4rknl42cVM6X+mQuKR0pa9ebelAAAAAD//xAAWAQEBAQAAAAAAAAAAAAAAAAAABQT/2gAKAgIQAxAAAAAANc3JSAqwJV8AAAA//8QALhAAAgICAQEGBAYDAAAAAAAAAQIDBAURABIGEzFRUmEUIUBBBxAVIiNCMnKx/9oACAEBAAE/APq83mosbDoaadhtVPgB6m5g8RPZkGQvs523XGjf2PrYf8H5YzOXcitSaPCzJWn+YnM0R0nqK73zF5CPI4+pcRCgnj6whILAb1y1erVGqiZ9d/YEKf7kE/PyA1xL1Z701MP/ADRxRyMPaTeteZ/bwSRs7orqWQ6ZQQSp9x9uS26kJAlsRISNgM6gkefz5l8fXxs1jKWmeynUDFEfvIfWfSOdnrN7M2J53yLCKGQCSBH0esjYUgeC8HiOdj6NgYjD2f1S4UMPV8MejuhvY1/j1aHOztynjmwNm9OleCXCPGksh6VLpP1ld+euMmJnw2Ou3YIfhx2jtGV54wAsMkkh0/V4KTy5BSizuXNWKul6fDI+NIUK7zFZAzRH1cwMVBshghTu0FmiJLpWqOlgoEIdbJLnXuX/ALc7KYTDv2exs0mPrySywB5JJIw7kknxLckqJNG8cqqyMCGUjYIPMT+F0mEzb5HGdoZ4kZz1wSRCQPGTso52N87v353fvwxA+PDECNE87oc7rnd+/wBZ/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIDEQQSIFEhIzBCYf/aAAgBAgEBPwDamL2GmkfQvr0ssfm1MyN8aRZDUoWkcixp4HHn/8QAIREAAgECBgMAAAAAAAAAAAAAAQMCBBEFEhMgQWEhMDH/2gAIAQMBAT8A2txG1ZClQrVZ9Z5sFjs7ZYVJdatir6GYymuJsTM8yPI69/8A/9k="
-   alt="JavaScript" height="56px" />
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript"
+            src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    </a>
   </tr>
 </table>
 
