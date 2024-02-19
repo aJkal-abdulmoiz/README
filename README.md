@@ -32,18 +32,16 @@
 
 Hey 👋 My name is Abdul Moiz, and I am a computer science student at Air University, Islamabad. My Passion is Data, I LIV3 4 DATA.
 
+As a Full-Stack Web Developer, I design, develop, and deploy custom websites for clients who have a unique idea for their web pages. I use HTML, CSS, JavaScript, React for Front-End and for backend Node.js (Express.js) or Python (Django, Flask) and for Version Control I use Git to create responsive and user-friendly websites both for Client and Users.
+
+I also Leverage API Tools and Python libraries for developing Python Automation for Data Manipulation. 
+
 I love to Bring Innovation in every project and Use of Futuristic tools in Software Development that prove beneficial for both user and developers.
 
-I have gained expertise in WEB development and Information Security through courses, projects and internships.
 
-I am a fast learner and fond of future technology. I stay up to date with the latest trends and developments in the field of computer science. 
+I am a fast learner and fond of future technology. I stay up to date with the latest trends and developments in the field of computer science.
 
- I have great Interest in Web Development, I have great Skills in Front end development and converting any IMAGE, PDF , SKETCH , PSD, Figma, WordPress or any other format to HTML CSS JS Code.
-
-I enjoy Creating custom Websites for clients that have a unique idea for their website pages.
-
-
- I am fond of doing modifications in software of Smartphones.
+I am fond of doing modifications in software of Smartphones.
 
 ## 🛠️ My Skills
 
@@ -83,7 +81,7 @@ I enjoy Creating custom Websites for clients that have a unique idea for their w
     </a>
     <br />
     <br />
-    <summary><b>Backend Developement(Yet To complete)</b></summary>
+    <summary><b>Backend Developement</b></summary>
     <a href="https://nodejs.org/en/" target="_blank">
         <img alt="Node.js"
             src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -94,6 +92,10 @@ I enjoy Creating custom Websites for clients that have a unique idea for their w
     <a href="https://nodejs.org/en/" target="_blank">
         <img alt="MongoDB"
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+        <a href="https://www.python.org" target="_blank">
+        <img alt="Python"
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
 </p>
 
