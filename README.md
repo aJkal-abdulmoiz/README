@@ -57,6 +57,12 @@ I love automating workflows and integrating APIs to make applications smarter.
     <a href="https://www.mongodb.com" target="_blank">
         <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://www.graphql.org" target="_blank">
+        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+    </a>
     <a href="https://www.djangoproject.com" target="_blank">
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     </a>
@@ -65,6 +71,41 @@ I love automating workflows and integrating APIs to make applications smarter.
     </a>
     <a href="https://www.selenium.dev" target="_blank">
         <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    </a>
+</p>
+
+### Databases
+<p>
+    <a href="https://www.mongodb.com" target="_blank">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://www.mysql.com" target="_blank">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+</p>
+
+### DevOps & Tools
+<p>
+    <a href="https://www.jenkins.io" target="_blank">
+        <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+    </a>
+    <a href="https://gitlab.com" target="_blank">
+        <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </a>
+    <a href="https://www.ansible.com" target="_blank">
+        <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+    </a>
+    <a href="https://www.terraform.io" target="_blank">
+        <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+    </a>
+    <a href="https://www.puppet.com" target="_blank">
+        <img alt="Puppet" src="https://img.shields.io/badge/Puppet-FF6600?style=for-the-badge&logo=puppet&logoColor=white">
     </a>
 </p>
 
@@ -92,9 +133,9 @@ I love automating workflows and integrating APIs to make applications smarter.
 </p>
 
 ## 🌍 Current Focus
-- 🚀 Developing full-stack web applications using **React.js** and **Node.js**.
-- 🔍 Exploring **API Integration** and **Python Automation** with **Selenium**.
 - 💻 Working on scaling solutions with **Next.js** and **Vercel**.
+- 🚀 Developing full-stack web applications using **MERN Stack**.
+- 🔍 Exploring **API Integration** and **Python Automation** with **Selenium**.
 - 🎯 Continuing learning about **TypeScript**, **GraphQL**, and **Microservices**.
 
 ## 📱 Let's Connect!
