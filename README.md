@@ -129,9 +129,13 @@ I love automating workflows and integrating APIs to make applications smarter.
 ## 📱 Let's Connect!
 Feel free to reach out on:
 
-- **[LinkedIn](https://www.linkedin.com/in/abdul-moiz-303228264/)**
-- **[GitHub](https://github.com/aJkal-abdulmoiz)**
+- **[LinkedIn](https://www.linkedin.com/in/abdul-moiz-303228264/)** 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=#ffffff">
+- **[GitHub](https://github.com/aJkal-abdulmoiz)** 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=#ffffff">
 - **[Email](mailto:abdulmoiziphone4@gmail.com)**
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#ffffff">
+
 
 <!-- links -->
 [issues page]: https://github.com/aJkal/aJkal-abdulmoiz/issues "aJkal-abdulmoiz/issues"
