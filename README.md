@@ -54,23 +54,8 @@ I love automating workflows and integrating APIs to make applications smarter.
     <a href="https://expressjs.com" target="_blank">
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
     </a>
-    <a href="https://www.mongodb.com" target="_blank">
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-    </a>
-    <a href="https://www.graphql.org" target="_blank">
-        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-    </a>
-    <a href="https://www.djangoproject.com" target="_blank">
-        <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    </a>
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
         <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    </a>
-    <a href="https://www.selenium.dev" target="_blank">
-        <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     </a>
 </p>
 
@@ -84,6 +69,9 @@ I love automating workflows and integrating APIs to make applications smarter.
     </a>
     <a href="https://www.mysql.com" target="_blank">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://www.graphql.org" target="_blank">
+        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     </a>
 </p>
 
