@@ -15,7 +15,7 @@
     </a>
 </p>
 
-## 🚀👨‍ About me
+## 🚀‍ About me
 
 Hey 👋, I'm Abdul Moiz, a passionate Full-Stack Web Developer and Computer Science student at Air University, Islamabad. 
 
