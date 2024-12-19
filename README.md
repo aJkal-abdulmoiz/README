@@ -1,4 +1,12 @@
-<h1 align="center">Hello there, I'm <span style="font-weight: bold; color: #3498db; animation: fadeIn 2s;">Abdul Moiz</span>a <h2 align="center"><span style="font-weight: bold; color: #e74c3c; animation: fadeIn 3s;">Full Stack Web Developer</span></h2></h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <span style="font-weight: bold; color: #3498db; animation: fadeIn 2s;">Abdul Moiz a <span style="font-weight: bold; color: #e74c3c; animation: fadeIn 3s;"></span>Full Stack Web Developer </span></h1>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
+
 
 
 <style>
