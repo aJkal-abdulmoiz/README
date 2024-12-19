@@ -129,9 +129,6 @@ I love automating workflows and integrating APIs to make applications smarter.
 ## 📱 Let's Connect!
 Feel free to reach out on:
 
-## 📱 Let's Connect!
-Feel free to reach out on:
-
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=#ffffff)](https://www.linkedin.com/in/abdul-moiz-303228264/)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=#ffffff)](https://github.com/aJkal-abdulmoiz)
 - [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#ffffff)](mailto:abdulmoiziphone4@gmail.com)
