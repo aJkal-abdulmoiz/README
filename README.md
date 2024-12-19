@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm <span style="font-weight: bold; color: #3498db; animation: fadeIn 2s;">Abdul Moiz</span></h1>
-<h2 align="center"><span style="font-weight: bold; color: #e74c3c; animation: fadeIn 3s;">Full Stack Web Developer</span></h2>
+<h1 align="center">Hello there, I'm <span style="font-weight: bold; color: #3498db; animation: fadeIn 2s;">Abdul Moiz</span>a <h2 align="center"><span style="font-weight: bold; color: #e74c3c; animation: fadeIn 3s;">Full Stack Web Developer</span></h2></h1>
+
 
 <style>
   @keyframes fadeIn {
