@@ -113,10 +113,10 @@ I love automating workflows and integrating APIs to make applications smarter.
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Abdul Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aJkal-abdulmoiz&show_icons=true&count_private=true&theme=algolia&hide_title=true" height="250" />
+        <img alt="Abdul Moiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aJkal-abdulmoiz&show_icons=true&count_private=true&theme=algolia&hide_title=true" height="200" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Abdul Moiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=aJkal-abdulmoiz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="250"/>
+        <img alt="Abdul Moiz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=aJkal-abdulmoiz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="200"/>
     </a>
 </p>
 
